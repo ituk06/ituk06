@@ -17,4 +17,4 @@ QA Intern
 
 ### Badges
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ituk06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ituk06&layout=compact)](https://github.com/ituk06/github-readme-stats)
